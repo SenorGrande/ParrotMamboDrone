@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.parrot:libARMedia-3.13.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libARMedia-3.13.1.aar/0523090b641bbbfb198d1eac9d72b5d8/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libARMedia-3.13.1.aar/0523090b641bbbfb198d1eac9d72b5d8/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parrot/libARMedia/3.13.1/ff9bc939981fe730100aed5855233e7413ac2dc3/libARMedia-3.13.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
